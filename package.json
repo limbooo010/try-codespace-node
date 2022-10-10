@@ -9,6 +9,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "graphql": "^16.6.0"
   }
 }
